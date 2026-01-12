@@ -6,6 +6,7 @@ interface IENV {
   NODE_ENV: string;
   MONGODB_URI: string;
   FRONTEND_URL: string;
+  BCRYPT_SALT_ROUND: string;
 }
 
 const REQUIRED_ENV_KEYS: (keyof IENV)[] = [
@@ -13,6 +14,7 @@ const REQUIRED_ENV_KEYS: (keyof IENV)[] = [
   "NODE_ENV",
   "MONGODB_URI",
   "FRONTEND_URL",
+  "BCRYPT_SALT_ROUND",
 ];
 
 function loadEnv(): IENV {

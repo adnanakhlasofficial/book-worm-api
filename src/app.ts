@@ -4,6 +4,7 @@ import express from "express";
 import globalError from "./middlewares/globalError.middleware";
 import cookieParser from 'cookie-parser'
 import { env } from "./configs/env";
+import router from "./routes";
 
 const app = express();
 
@@ -15,11 +16,15 @@ app.use(cors({
 app.use(compression()); // Compresses response bodies for faster delivery
 app.use(express.json()); // Parse incoming JSON requests
 app.use(cookieParser()); // Parse incoming cookies request
+app.use("/api/v1", router) // Mount all API v1 routes under /api/v1
 
 
 // Default route for testing
 app.get("/", (_req, res) => {
-  res.send("API is running");
+  res.send({
+    success: true,
+    message: "API is running."
+  });
 });
 
 // Global Error handler

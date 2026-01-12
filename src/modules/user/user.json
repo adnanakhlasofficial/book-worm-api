@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "profile": "https://example.com/alice",
+    "password": "password123"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "profile": "https://example.com/bob",
+    "password": "securePass1"
+  },
+  {
+    "name": "Charlie Brown",
+    "email": "charlie.brown@example.com",
+    "profile": "https://example.com/charlie",
+    "password": "charlie2024"
+  },
+  {
+    "name": "Diana Prince",
+    "email": "diana.prince@example.com",
+    "profile": "https://example.com/diana",
+    "password": "wonderwoman"
+  },
+  {
+    "name": "Ethan Hunt",
+    "email": "ethan.hunt@example.com",
+    "profile": "https://example.com/ethan",
+    "password": "missionImpossible"
+  },
+  {
+    "name": "Fiona Gallagher",
+    "email": "fiona.gallagher@example.com",
+    "profile": "https://example.com/fiona",
+    "password": "fionaPass99"
+  },
+  {
+    "name": "George Miller",
+    "email": "george.miller@example.com",
+    "profile": "https://example.com/george",
+    "password": "georgeSecure"
+  },
+  {
+    "name": "Hannah Lee",
+    "email": "hannah.lee@example.com",
+    "profile": "https://example.com/hannah",
+    "password": "hannahStrong"
+  },
+  {
+    "name": "Ian Wright",
+    "email": "ian.wright@example.com",
+    "profile": "https://example.com/ian",
+    "password": "wrightPass"
+  },
+  {
+    "name": "Julia Roberts",
+    "email": "julia.roberts@example.com",
+    "profile": "https://example.com/julia",
+    "password": "juliaSecure1"
+  }
+]
