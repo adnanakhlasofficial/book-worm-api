@@ -7,6 +7,8 @@ interface IENV {
   MONGODB_URI: string;
   FRONTEND_URL: string;
   BCRYPT_SALT_ROUND: string;
+  JWT_ACCESS_SECRET: string;
+  JWT_ACCESS_EXPIRES_AT: string
 }
 
 const REQUIRED_ENV_KEYS: (keyof IENV)[] = [
@@ -15,6 +17,8 @@ const REQUIRED_ENV_KEYS: (keyof IENV)[] = [
   "MONGODB_URI",
   "FRONTEND_URL",
   "BCRYPT_SALT_ROUND",
+  "JWT_ACCESS_SECRET",
+  "JWT_ACCESS_EXPIRES_AT"
 ];
 
 function loadEnv(): IENV {
