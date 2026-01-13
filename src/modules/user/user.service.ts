@@ -45,6 +45,14 @@ const updateUserRole = async (id: string, role: string) => {
   return data;
 };
 
+const getMe = async (userId: string) => {
+  return await UserModel.findById(userId).select("-password");
+};
 
-
-export const UserService = { createUser, updateUser, deleteUser, updateUserRole };
+export const UserService = {
+  createUser,
+  updateUser,
+  deleteUser,
+  updateUserRole,
+  getMe,
+};

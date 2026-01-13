@@ -54,4 +54,21 @@ const updateUserRole = catchAsync(async (req: Request, res: Response) => {
   });
 });
 
-export const UserController = { createUser, updateUser, deleteUser, updateUserRole };
+const getMe = catchAsync(async (req: Request, res: Response) => {
+  const userId = req.user.id;
+  const data = await UserService.getMe(userId);
+  sendResponse(res, {
+    status: httpStatus.OK,
+    success: true,
+    message: "User profile retrieved successfully.",
+    data,
+  });
+});
+
+export const UserController = {
+  createUser,
+  updateUser,
+  deleteUser,
+  updateUserRole,
+  getMe,
+};
