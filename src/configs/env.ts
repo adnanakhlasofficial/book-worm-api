@@ -8,7 +8,11 @@ interface IENV {
   FRONTEND_URL: string;
   BCRYPT_SALT_ROUND: string;
   JWT_ACCESS_SECRET: string;
-  JWT_ACCESS_EXPIRES_AT: string
+  JWT_ACCESS_EXPIRES_AT: string;
+  ADMIN_EMAIL: string;
+  ADMIN_PASS: string;
+  USER_EMAIL: string;
+  USER_PASS: string;
 }
 
 const REQUIRED_ENV_KEYS: (keyof IENV)[] = [
@@ -18,7 +22,11 @@ const REQUIRED_ENV_KEYS: (keyof IENV)[] = [
   "FRONTEND_URL",
   "BCRYPT_SALT_ROUND",
   "JWT_ACCESS_SECRET",
-  "JWT_ACCESS_EXPIRES_AT"
+  "JWT_ACCESS_EXPIRES_AT",
+  "ADMIN_EMAIL",
+  "ADMIN_PASS",
+  "USER_EMAIL",
+  "USER_PASS",
 ];
 
 function loadEnv(): IENV {
