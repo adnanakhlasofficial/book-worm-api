@@ -17,4 +17,4 @@ const GenreSchema = new Schema<IGenre>(
   { versionKey: false, timestamps: true }
 );
 
-export const GenreModel = model<IGenre>("Genre", GenreSchema);
+export const GenreModel = model<IGenre>("genre", GenreSchema);

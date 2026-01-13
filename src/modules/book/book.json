@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Shadows of Honor",
+    "author": "Elena Carter",
+    "genre": "6965cbf1661632049bbe88fc",
+    "description": "A gripping tale of warriors fighting for justice in a corrupt empire.",
+    "coverImage": "https://example.com/covers/shadows_of_honor.jpg"
+  },
+  {
+    "title": "Quest Beyond Horizons",
+    "author": "Michael Stone",
+    "genre": "6965cbf1661632049bbe88fd",
+    "description": "An epic adventure across uncharted lands filled with danger and wonder.",
+    "coverImage": "https://example.com/covers/quest_beyond_horizons.jpg"
+  },
+  {
+    "title": "Laugh Till Midnight",
+    "author": "Sophie Green",
+    "genre": "6965cbf1661632049bbe88fe",
+    "description": "A hilarious comedy of errors set in a bustling city.",
+    "coverImage": "https://example.com/covers/laugh_till_midnight.jpg"
+  },
+  {
+    "title": "Echoes of Silence",
+    "author": "Daniel Brooks",
+    "genre": "6965cbf1661632049bbe88ff",
+    "description": "A heartfelt drama exploring family bonds and hidden secrets.",
+    "coverImage": "https://example.com/covers/echoes_of_silence.jpg"
+  },
+  {
+    "title": "Edge of Fear",
+    "author": "Clara James",
+    "genre": "6965cbf1661632049bbe8900",
+    "description": "A fast-paced thriller where every decision could mean life or death.",
+    "coverImage": "https://example.com/covers/edge_of_fear.jpg"
+  },
+  {
+    "title": "Whispers in the Dark",
+    "author": "Henry Black",
+    "genre": "6965cbf1661632049bbe8901",
+    "description": "A chilling horror story of a haunted mansion and its cursed inhabitants.",
+    "coverImage": "https://example.com/covers/whispers_in_the_dark.jpg"
+  },
+  {
+    "title": "Galactic Dawn",
+    "author": "Iris Monroe",
+    "genre": "6965cbf1661632049bbe8902",
+    "description": "A science fiction saga of humanity’s first contact with alien civilizations.",
+    "coverImage": "https://example.com/covers/galactic_dawn.jpg"
+  },
+  {
+    "title": "The Crystal Realm",
+    "author": "Oliver Knight",
+    "genre": "6965cbf1661632049bbe8903",
+    "description": "A fantasy journey through magical kingdoms and enchanted forests.",
+    "coverImage": "https://example.com/covers/the_crystal_realm.jpg"
+  },
+  {
+    "title": "Hearts Entwined",
+    "author": "Amelia Rose",
+    "genre": "6965cbf1661632049bbe8904",
+    "description": "A tender romance between two souls destined to meet against all odds.",
+    "coverImage": "https://example.com/covers/hearts_entwined.jpg"
+  },
+  {
+    "title": "The Hidden Key",
+    "author": "Lucas Gray",
+    "genre": "6965cbf1661632049bbe8905",
+    "description": "A mystery novel unraveling the secrets of a centuries-old puzzle.",
+    "coverImage": "https://example.com/covers/the_hidden_key.jpg"
+  },
+  {
+    "title": "City of Shadows",
+    "author": "Natalie Reed",
+    "genre": "6965cbf1661632049bbe8906",
+    "description": "A crime thriller set in the underbelly of a sprawling metropolis.",
+    "coverImage": "https://example.com/covers/city_of_shadows.jpg"
+  },
+  {
+    "title": "Rise of Valor",
+    "author": "Ethan Cole",
+    "genre": "6965cbf1661632049bbe88fc",
+    "description": "An action-packed tale of a soldier’s fight against tyranny.",
+    "coverImage": "https://example.com/covers/rise_of_valor.jpg"
+  },
+  {
+    "title": "Journey to the Abyss",
+    "author": "Sophia Turner",
+    "genre": "6965cbf1661632049bbe88fd",
+    "description": "An adventure into the deepest caves where myths come alive.",
+    "coverImage": "https://example.com/covers/journey_to_the_abyss.jpg"
+  },
+  {
+    "title": "Comic Relief",
+    "author": "Ryan Foster",
+    "genre": "6965cbf1661632049bbe88fe",
+    "description": "A comedy about friends navigating life’s absurdities.",
+    "coverImage": "https://example.com/covers/comic_relief.jpg"
+  },
+  {
+    "title": "Tears of Tomorrow",
+    "author": "Emma Hayes",
+    "genre": "6965cbf1661632049bbe88ff",
+    "description": "A drama exploring love, loss, and redemption.",
+    "coverImage": "https://example.com/covers/tears_of_tomorrow.jpg"
+  },
+  {
+    "title": "Silent Pursuit",
+    "author": "Jack Miller",
+    "genre": "6965cbf1661632049bbe8900",
+    "description": "A thriller about a detective chasing a cunning fugitive.",
+    "coverImage": "https://example.com/covers/silent_pursuit.jpg"
+  },
+  {
+    "title": "Blood Moon",
+    "author": "Grace Walker",
+    "genre": "6965cbf1661632049bbe8901",
+    "description": "A horror story of a town cursed under the blood moon.",
+    "coverImage": "https://example.com/covers/blood_moon.jpg"
+  }
+]
