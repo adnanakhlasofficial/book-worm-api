@@ -30,6 +30,16 @@ const UserSchema = new Schema<IUser>(
       type: String,
       required: true,
     },
+    shelves: {
+      wantToRead: [{ type: Schema.Types.ObjectId, ref: "book" }],
+      currentlyReading: [
+        {
+          book: { type: Schema.Types.ObjectId, ref: "book" },
+          progress: { type: Number, default: 0 },
+        },
+      ],
+      read: [{ type: Schema.Types.ObjectId, ref: "book" }],
+    },
   },
   {
     versionKey: false,

@@ -2,120 +2,145 @@
   {
     "title": "Shadows of Honor",
     "author": "Elena Carter",
-    "genre": "6965cbf1661632049bbe88fc",
+    "genre": "6965da8e2af4b3c0576dbdf8",
     "description": "A gripping tale of warriors fighting for justice in a corrupt empire.",
-    "coverImage": "https://example.com/covers/shadows_of_honor.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1514539079130-25950c84af65?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 350
   },
   {
     "title": "Quest Beyond Horizons",
     "author": "Michael Stone",
-    "genre": "6965cbf1661632049bbe88fd",
+    "genre": "6965da962af4b3c0576dbdfb",
     "description": "An epic adventure across uncharted lands filled with danger and wonder.",
-    "coverImage": "https://example.com/covers/quest_beyond_horizons.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 420
   },
   {
     "title": "Laugh Till Midnight",
     "author": "Sophie Green",
-    "genre": "6965cbf1661632049bbe88fe",
+    "genre": "6965da9c2af4b3c0576dbdfe",
     "description": "A hilarious comedy of errors set in a bustling city.",
-    "coverImage": "https://example.com/covers/laugh_till_midnight.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 280
   },
   {
     "title": "Echoes of Silence",
     "author": "Daniel Brooks",
-    "genre": "6965cbf1661632049bbe88ff",
+    "genre": "6965daa22af4b3c0576dbe01",
     "description": "A heartfelt drama exploring family bonds and hidden secrets.",
-    "coverImage": "https://example.com/covers/echoes_of_silence.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 310
   },
   {
     "title": "Edge of Fear",
     "author": "Clara James",
-    "genre": "6965cbf1661632049bbe8900",
+    "genre": "6965daa82af4b3c0576dbe04",
     "description": "A fast-paced thriller where every decision could mean life or death.",
-    "coverImage": "https://example.com/covers/edge_of_fear.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1481016570479-9eab6349fef7?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 340
   },
   {
     "title": "Whispers in the Dark",
     "author": "Henry Black",
-    "genre": "6965cbf1661632049bbe8901",
+    "genre": "6965daaf2af4b3c0576dbe07",
     "description": "A chilling horror story of a haunted mansion and its cursed inhabitants.",
-    "coverImage": "https://example.com/covers/whispers_in_the_dark.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1505635330303-31953079663b?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 290
   },
   {
     "title": "Galactic Dawn",
     "author": "Iris Monroe",
-    "genre": "6965cbf1661632049bbe8902",
+    "genre": "6965dab42af4b3c0576dbe0a",
     "description": "A science fiction saga of humanity’s first contact with alien civilizations.",
-    "coverImage": "https://example.com/covers/galactic_dawn.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 480
   },
   {
     "title": "The Crystal Realm",
     "author": "Oliver Knight",
-    "genre": "6965cbf1661632049bbe8903",
+    "genre": "6965dabb2af4b3c0576dbe0d",
     "description": "A fantasy journey through magical kingdoms and enchanted forests.",
-    "coverImage": "https://example.com/covers/the_crystal_realm.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1519074063912-ad2fe3f51984?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 450
   },
   {
     "title": "Hearts Entwined",
     "author": "Amelia Rose",
-    "genre": "6965cbf1661632049bbe8904",
+    "genre": "6965dac22af4b3c0576dbe10",
     "description": "A tender romance between two souls destined to meet against all odds.",
-    "coverImage": "https://example.com/covers/hearts_entwined.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1518621736915-f3b1c41bfd00?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 320
   },
   {
     "title": "The Hidden Key",
     "author": "Lucas Gray",
-    "genre": "6965cbf1661632049bbe8905",
+    "genre": "6965dac92af4b3c0576dbe13",
     "description": "A mystery novel unraveling the secrets of a centuries-old puzzle.",
-    "coverImage": "https://example.com/covers/the_hidden_key.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 370
   },
   {
     "title": "City of Shadows",
     "author": "Natalie Reed",
-    "genre": "6965cbf1661632049bbe8906",
+    "genre": "6965dace2af4b3c0576dbe16",
     "description": "A crime thriller set in the underbelly of a sprawling metropolis.",
-    "coverImage": "https://example.com/covers/city_of_shadows.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 390
   },
   {
     "title": "Rise of Valor",
     "author": "Ethan Cole",
-    "genre": "6965cbf1661632049bbe88fc",
+    "genre": "6965da8e2af4b3c0576dbdf8",
     "description": "An action-packed tale of a soldier’s fight against tyranny.",
-    "coverImage": "https://example.com/covers/rise_of_valor.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1506466010722-395aa2bef877?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 315
   },
   {
     "title": "Journey to the Abyss",
     "author": "Sophia Turner",
-    "genre": "6965cbf1661632049bbe88fd",
+    "genre": "6965da962af4b3c0576dbdfb",
     "description": "An adventure into the deepest caves where myths come alive.",
-    "coverImage": "https://example.com/covers/journey_to_the_abyss.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 410
   },
   {
     "title": "Comic Relief",
     "author": "Ryan Foster",
-    "genre": "6965cbf1661632049bbe88fe",
+    "genre": "6965da9c2af4b3c0576dbdfe",
     "description": "A comedy about friends navigating life’s absurdities.",
-    "coverImage": "https://example.com/covers/comic_relief.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 250
   },
   {
     "title": "Tears of Tomorrow",
     "author": "Emma Hayes",
-    "genre": "6965cbf1661632049bbe88ff",
+    "genre": "6965daa22af4b3c0576dbe01",
     "description": "A drama exploring love, loss, and redemption.",
-    "coverImage": "https://example.com/covers/tears_of_tomorrow.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1516589174184-c68526614486?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 330
   },
   {
     "title": "Silent Pursuit",
     "author": "Jack Miller",
-    "genre": "6965cbf1661632049bbe8900",
+    "genre": "6965daa82af4b3c0576dbe04",
     "description": "A thriller about a detective chasing a cunning fugitive.",
-    "coverImage": "https://example.com/covers/silent_pursuit.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1453873531674-215ee3ac4d1b?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 360
   },
   {
     "title": "Blood Moon",
     "author": "Grace Walker",
-    "genre": "6965cbf1661632049bbe8901",
+    "genre": "6965daaf2af4b3c0576dbe07",
     "description": "A horror story of a town cursed under the blood moon.",
-    "coverImage": "https://example.com/covers/blood_moon.jpg"
+    "coverImage": "https://images.unsplash.com/photo-1475116127127-e3ce09ee84e1?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 275
+  },
+  {
+    "title": "Beyond the Stars",
+    "author": "Marcus Vane",
+    "genre": "6965dab42af4b3c0576dbe0a",
+    "description": "A hard sci-fi exploration of colony ships traveling to Proxima Centauri.",
+    "coverImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop",
+    "totalPages": 500
   }
 ]

@@ -3,6 +3,7 @@ import { UserRouter } from "../modules/user/user.route";
 import { AuthRouter } from "../modules/auth/auth.route";
 import { GenreRouter } from "../modules/genre/genre.route";
 import { BookRouter } from "../modules/book/book.route";
+import { ShelfRouter } from "../modules/shelves/shelf.route";
 
 interface IRoute {
   path: string;
@@ -27,6 +28,10 @@ const routers: IRoute[] = [
   {
     path: "/book",
     router: BookRouter,
+  },
+  {
+    path: "/shelf",
+    router: ShelfRouter,
   },
 ];
 

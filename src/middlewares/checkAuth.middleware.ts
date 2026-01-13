@@ -27,7 +27,7 @@ export const checkAuth =
 
       const user = await UserModel.findOne({
         email: isTokenValid.email,
-      }).select("-password -_id");
+      }).select("email name role");
 
       if (!user) {
         throw new AppError(httpStatus.BAD_REQUEST, "User not found");
